@@ -1,0 +1,20 @@
+.images {
+  height: 150px;
+}
+.card-item {
+  margin: 10px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  list-style-type: none;
+}
+.name {
+  color: white;
+  font-size: 20px;
+  font-family: Roboto;
+}
+.location {
+  color: white;
+  font-size: 15px;
+  font-family: Roboto;
+}

@@ -1,0 +1,28 @@
+.events-bg {
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+}
+.main-bg-div {
+  display: flex;
+}
+.bg {
+  background-color: #323f4b;
+  width: 50%;
+}
+.event-heading {
+  color: white;
+  font-size: 30px;
+  font-family: Roboto;
+  text-align: left;
+  margin-left: 75px;
+  margin-bottom: 0px;
+}
+.first-one {
+  color: #475569;
+  font-family: roboto;
+  font-size: 20px;
+  margin-left: 250px;
+  width: 250px;
+  text-align: center;
+}
